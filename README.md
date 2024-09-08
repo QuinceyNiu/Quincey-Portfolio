@@ -2,16 +2,10 @@
 
 ---
 
-## Education
+## Technical Skills
 
-**University of Pittsburgh**  
-*Aug 2022 - Apr 2024*  
-M.S in Information Science (GPA: 3.8/4.0)  
-Pittsburgh, PA
-
-**Changzhou University**  
-*Sep 2018 - Jun 2022*  
-B.Tech in Computer Science and Technology
+- **Languages**: Java, JavaScript, Python, R, C++, HTML5, CSS, C#, SQL
+- **Tools & Frameworks**: Spring Boot, PERN stack (PostgreSQL, Express, React, Node.js), Vue, Unity, Git, TensorFlow, PyTorch, Pygame, CUDA, Docker, Spark, Hadoop, MongoDB
 
 ---
 
@@ -52,7 +46,13 @@ B.Tech in Computer Science and Technology
 
 ---
 
-## Technical Skills
+## Education
 
-- **Languages**: Java, JavaScript, Python, R, C++, HTML5, CSS, C#, SQL
-- **Tools & Frameworks**: Spring Boot, PERN stack (PostgreSQL, Express, React, Node.js), Vue, Unity, Git, TensorFlow, PyTorch, Pygame, CUDA, Docker, Spark, Hadoop, MongoDB
+**University of Pittsburgh**  
+*Aug 2022 - Apr 2024*  
+M.S in Information Science (GPA: 3.8/4.0)  
+Pittsburgh, PA
+
+**Changzhou University**  
+*Sep 2018 - Jun 2022*  
+B.Tech in Computer Science and Technology
