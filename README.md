@@ -1,7 +1,5 @@
 # Quincey Niu
 
-**Phone**: (412)-592-1346 | **Email**: [quincey0602@gmail.com](mailto:quincey0602@gmail.com) | **GitHub**: [github.com/QuinceyNiu](https://github.com/QuinceyNiu)
-
 ---
 
 ## Education
