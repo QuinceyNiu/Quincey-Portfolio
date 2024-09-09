@@ -48,14 +48,10 @@
 
 ## Education
 
-**University of Pittsburgh**  
-*Aug 2022 - Apr 2024*  
+**University of Pittsburgh**      *Aug 2022 - Apr 2024*  
+
 M.S in Information Science (GPA: 3.8/4.0)  
 
-**Changzhou University**  
-*Sep 2018 - Jun 2022*  
+**Changzhou University**          *Sep 2018 - Jun 2022* 
+ 
 B.Tech in Computer Science and Technology
-
-## Education							       		
-- M.S., Information Science	| University of Pittsburgh 			        		
-- B.S., Computer Science and Technology | Changzhou University
