@@ -50,8 +50,8 @@
 
 **University of Pittsburgh**    &emsp;&emsp;  *Aug 2022 - Apr 2024*  
 
-M.S in Information Science (GPA: 3.8/4.0)  
+- M.S in Information Science  
 
 **Changzhou University**     &emsp;&emsp;     *Sep 2018 - Jun 2022* 
  
-B.Tech in Computer Science and Technology
+- B.Tech in Computer Science and Technology
