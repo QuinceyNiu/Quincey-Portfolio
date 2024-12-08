@@ -48,10 +48,10 @@
 
 ## Education
 
-**University of Pittsburgh**    &emsp;&emsp;  *Aug 2022 - Apr 2024*  
+**University of Pittsburgh**    &emsp;&emsp;  *2022 - 2024*  
 
 - M.S in Information Science  
 
-**Changzhou University**     &emsp;&emsp;     *Sep 2018 - Jun 2022* 
+**Changzhou University**     &emsp;&emsp;     *2018 - 2022* 
  
 - B.Tech in Computer Science and Technology
