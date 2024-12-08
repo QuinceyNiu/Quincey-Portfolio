@@ -5,17 +5,24 @@
 ## Technical Skills
 
 - **Languages**: Java, JavaScript, Python, R, C++, HTML5, CSS, C#, SQL
-- **Tools & Frameworks**: Spring Boot, PERN stack (PostgreSQL, Express, React, Node.js), Vue, Unity, Git, TensorFlow, PyTorch, Pygame, CUDA, Docker, Spark, Hadoop, MongoDB
+- **Tools & Frameworks**: Spring Boot, PERN stack ( Postgresql, Express, React, Node.JS), Vue, Unity, Git, Docker, Spark, Hadoop, MySQL, MongoDB, TensorFlow, Pytorch, CUDA
 
 ---
 
 ## Professional Experience
 
+**Software Engineer**  
+*Tripalink Corp.*  
+*May 2024 - Present*  
+- Participated in the development and successful launch of a **GenAI-powered** search suggestion feature, enabling users to quickly find suitable rental listings, resulting in a 15\% increase in search conversion rate and directly contributing to the growth of the company’s monthly new rental orders.
+- Utilized **GitLab CI/CD** pipelines for the continuous development and maintenance of the company website and rental app, automating build, test, and deployment processes.
+- Collaborated with the development team to resolve application bugs and improve performance, ensuring the application’s reliability and efficient operation.
+
 **Software Developer**  
 *Qiyue Intelligence Co.*  
 *Sep 2020 - Jun 2021*  
 - Developed a campus mini-program for parcel retrieval adopted by 2000+ users utilizing JavaScript and PHP to enhance user experience and backend efficiency.
-- Integrated front-to-back end data interaction via RESTful APIs and MySQL, ensuring rapid response and data integrity.
+- Integrated front-to-back end data interaction via **RESTful APIs** and **MySQL**, ensuring rapid response and data integrity.
 - Implemented UI enhancements using **HTML**, **CSS**, **Bootstrap**, **JQuery**, **AJAX**, and **JSON**, leading to a notable increase in user engagement and performance metrics.
 
 **Software Development Engineer in Test Intern**  
