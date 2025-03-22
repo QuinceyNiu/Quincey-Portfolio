@@ -14,7 +14,7 @@
 **Software Engineer**  
 *Tripalink Corp.*  
 *May 2024 - Present*  
-- Participated in the development and successful launch of a **GenAI-powered** search suggestion feature, enabling users to quickly find suitable rental listings, resulting in a 15\% increase in search conversion rate and directly contributing to the growth of the company’s monthly new rental orders.
+- Participated in the development and successful launch of a **GenAI-powered** search suggestion feature, enabling users to quickly find suitable rental listings, resulting in a 15% increase in search conversion rate and directly contributing to the growth of the company’s monthly new rental orders.
 - Utilized **GitLab CI/CD** pipelines for the continuous development and maintenance of the company website and rental app, automating build, test, and deployment processes.
 - Collaborated with the development team to resolve application bugs and improve performance, ensuring the application’s reliability and efficient operation.
 
