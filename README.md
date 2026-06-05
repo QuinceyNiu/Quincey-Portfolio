@@ -1,4 +1,4 @@
-# Backend Developer | AI Products | Enterprise Web Systems
+# Backend Developer | AI Products
 
 ---
 
