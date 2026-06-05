@@ -1,64 +1,62 @@
-# Software Engineer
+# Backend Developer | AI Products | Enterprise Web Systems
 
 ---
 
 ## Technical Skills
 
-- **Languages**: Java, JavaScript, Python, R, C++, HTML5, CSS, C#, SQL
-- **Tools & Frameworks**: Spring Boot, PERN stack ( Postgresql, Express, React, Node.JS), Vue, Unity, Git, Docker, Spark, Hadoop, MySQL, MongoDB, TensorFlow, Pytorch, CUDA
+- **Backend**: Java, Python, Spring Boot, FastAPI, RESTful APIs, Kafka, Redis, MinIO
+- **AI / LLM**: RAG, ReAct Agent, Function Calling, MCP, Prompt Engineering, Qwen3-Max, bge-m3
+- **Data / Search**: PostgreSQL, SQLite, Elasticsearch, Milvus, vector search, metadata management
+- **Frontend / Delivery**: React, TypeScript, Vue, Docker, GitLab CI/CD, debugging, MVP validation
+- **Languages**: Mandarin Chinese, English
 
 ---
 
 ## Professional Experience
 
+**AI Full-Stack Engineer**  
+*Shanghai Xiaoling Biopharmaceutical Technology Co., Ltd.*  
+*Jan 2026 - May 2026* | Shanghai, China  
+
+- Designed and delivered the **X-AGEING RAG medical assistant MVP** using **FastAPI, React, and TypeScript**, integrating medical knowledge retrieval, Qwen3-Max report post-processing, and source citation for traceable health-check report analysis.
+- Built a hybrid RAG architecture combining **Milvus vector retrieval** with PageIndex single-document section reranking, routing clinical guidelines, lab indicators, and disease encyclopedias by `doc_type`.
+- Implemented medical knowledge ingestion and retrieval services, including PDF/Markdown parsing, semantic chunking, **bge-m3 embeddings**, Milvus vector storage, metadata management, and Top-K retrieval by abnormal health indicators.
+- Injected retrieved evidence into LLM post-processing prompts and displayed source document, section, page, excerpt, and retrieval-channel markers to improve explainability and reduce medical hallucination risk.
+
 **Software Engineer**  
 *Tripalink Corp.*  
-*May 2024 - Present*  
-- Participated in the development and successful launch of a **GenAI-powered** search suggestion feature, enabling users to quickly find suitable rental listings, resulting in a 15% increase in search conversion rate and directly contributing to the growth of the company’s monthly new rental orders.
-- Utilized **GitLab CI/CD** pipelines for the continuous development and maintenance of the company website and rental app, automating build, test, and deployment processes.
-- Collaborated with the development team to resolve application bugs and improve performance, ensuring the application’s reliability and efficient operation.
+*May 2024 - Dec 2025* | United States  
 
-**Software Developer**  
-*Qiyue Intelligence Co.*  
-*Sep 2020 - Jun 2021*  
-- Developed a campus mini-program for parcel retrieval adopted by 2000+ users utilizing JavaScript and PHP to enhance user experience and backend efficiency.
-- Integrated front-to-back end data interaction via **RESTful APIs** and **MySQL**, ensuring rapid response and data integrity.
-- Implemented UI enhancements using **HTML**, **CSS**, **Bootstrap**, **JQuery**, **AJAX**, and **JSON**, leading to a notable increase in user engagement and performance metrics.
-
-**Software Development Engineer in Test Intern**  
-*NARI Technology Development Limited Co.*  
-*May 2023 - Aug 2023*  
-- Executed complex **SQL** queries in DMT database operations, optimizing data retrieval and processing on large datasets.
-- Employed E-Language for electrical station data handling, boosting data management efficiency.
-- Spearheaded the deployment and launch of projects on the SCADA platform, achieving timely delivery and maintaining 100% uptime during the launch phase.
+- Designed and implemented a **RAG-based property knowledge base** and **GenAI search suggestion service**, vectorizing property descriptions, FAQs, and lease terms into **Elasticsearch** for keyword plus semantic hybrid retrieval.
+- Used **Kafka** to decouple document upload, parsing, vectorization, and retrieval workflows.
+- Implemented chunked and resumable large-file uploads with **Spring Boot, Redis, and MinIO**, reducing knowledge-base update latency from hours to minutes.
+- Launched GenAI search suggestions by vectorizing natural-language user intent to retrieve Top-K relevant listings and candidate search terms, improving search conversion by approximately **15%**.
+- Optimized slow queries, cache strategy, and API concurrency to improve backend reliability and performance.
 
 ---
 
-## Research Experience
+## Project Experience
 
-**Development of an E-commerce Platform for Asian-style Groceries**  
-*Research Assistant*  
-*Sep 2022 - Jan 2023* | Pittsburgh, PA  
-- Developed an e-commerce platform for grocery shopping for Asian students studying abroad, addressing the high time cost and transportation inconvenience.
-- Utilized **Spring Boot** for backend development, enhancing web service capabilities, and integrated **MyBatis** for database interaction, improving data processing efficiency and query optimization.
-- Developed AJAX-based front-end functions, enhancing user interaction and system responsiveness.
-- Employed HTML, CSS, and JavaScript to improve interface usability, focusing on improving user experience and streamlining system operations.
+**PaiCLI Agent**  
+*AI Coding Agent / Independent Developer Project*  
+*Mar 2026 - May 2026*  
 
-**Research on Paint Color Analysis | Machine Learning**  
-*Sponsored by PPG Industries*  
-*Jan 2023 - Apr 2023* | Pittsburgh, PA  
-- Conducted machine learning analysis on paint color properties and popularity using **R**, focusing on RGB and HSL models to identify dataset patterns and anomalies.
-- Developed and optimized linear, non-linear, Bayesian, and non-Bayesian models for predicting paint properties and color popularity, achieving high accuracy and reliability.
-- Analyzed model outcomes to understand key factors influencing paint properties, with a special focus on Lightness and Saturation trends impacting color predictability.
+- Independently developed a terminal AI coding agent similar to Claude Code, supporting **ReAct reasoning**, Function Calling, Plan-and-Execute orchestration, MCP tool invocation, long-term memory, and RAG codebase search.
+- Designed an extensible **ToolRegistry** that exposes file I/O, command execution, code search, web search, and external MCP tools as agent-selectable functions.
+- Built a **Planner → DAG → Executor** execution path to decompose complex tasks into dependency-aware subtasks.
+- Used `asyncio` and `ThreadPoolExecutor` to execute independent subtasks in parallel and improve multi-step development task efficiency.
+- Implemented cross-session memory and codebase retrieval with context summary compression, **tree-sitter** code chunking, BM25 plus vector-similarity hybrid search, and a `search_code` agent tool.
 
 ---
 
 ## Education
 
-**University of Pittsburgh**    &emsp;&emsp;  *2022 - 2024*  
+**University of Pittsburgh**  
+*Sep 2022 - Apr 2024*  
 
-- M.S in Information Science  
+- M.S. in Computer Science
 
-**Changzhou University**     &emsp;&emsp;     *2018 - 2022* 
- 
-- B.Tech in Computer Science and Technology
+**Changzhou University**  
+*Sep 2018 - Jun 2022*  
+
+- B.S. in Computer Science and Technology
